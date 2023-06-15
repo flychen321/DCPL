@@ -1,5 +1,5 @@
 ********************
-Source Code will be released upon acceptance of our paper
+Source Code is released for our paper entitled Unsupervised Person Re-identification via Differentiated Color Perception Learning
 ********************
 ## Prerequisites
 - Python 3.6
